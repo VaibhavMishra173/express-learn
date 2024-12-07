@@ -1,4 +1,3 @@
-# express-learn
 # Express-Learn
 
 This repository serves as a learning project created during college to explore and understand the core functionalities of Express.js, a minimal and flexible Node.js web application framework.
